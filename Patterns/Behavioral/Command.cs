@@ -18,7 +18,7 @@ namespace Patterns.Behavioral
         void UnExecute();
     }
 
-    //recivers
+    //recivers of the command
     class Light
     {
         public void On() { }
