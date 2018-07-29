@@ -10,6 +10,8 @@ namespace Patterns.Structural
     ///Intent of this pattern in to decouple an abstraction from its implementation so that the two can vary independently.
     /// </summary>
     /// 
+
+
     abstract class View
     {
         protected readonly IResource resource;

@@ -12,6 +12,8 @@ namespace Patterns.Structural
     /// </summary>
     /// 
 
+
+    //example of a todo list application in whcih we can have a todo item or list of todo items(project) whcih is treated unformly
     interface ITodoList
     {
         string GetHtml();

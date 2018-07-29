@@ -12,6 +12,8 @@ namespace Patterns.Behavioral
     /// Strategy lets the algorithm vary independently from clients that use it.
     /// </summary>
     /// 
+    
+    //instead of creating duck classes based on behiviors(flyingQuackingDuck, or nonFlyingQuackingDuck) client can costruct ducks using its behaiour 
 
     //strategies (behaviours)
     interface IFlyBehaviour

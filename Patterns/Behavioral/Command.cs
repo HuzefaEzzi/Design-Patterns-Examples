@@ -12,6 +12,8 @@ namespace Patterns.Behavioral
     /// </summary>
     
 
+    //simulating a rmeote control ot switch on / off fan anf light
+
     interface ICommand
     {
         void Execute();

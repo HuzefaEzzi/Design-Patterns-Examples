@@ -12,6 +12,9 @@ namespace Patterns.Behavioral
     /// </summary>
     /// 
 
+    //simulating a weather machine whcih displays like phone uses do display weather information, and here weather station sends out an 
+    //event to display if it is chnaged
+
     interface IObserver
     {
         void Update();

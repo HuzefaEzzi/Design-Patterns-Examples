@@ -14,6 +14,8 @@ namespace Patterns.Structural
     /// </summary>
     /// 
 
+    //simulating a coffe machine in whcih we can have a coffee and add topppings on the top of it
+    //like for instance expresso with caramel and whipped cream
 
     abstract class Beverage
     {
