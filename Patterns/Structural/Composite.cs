@@ -53,7 +53,7 @@ namespace Patterns.Structural
                 html += item.GetHtml();
                 html += "</li>";
             }
-            html =+"</ul>";
+            html +="</ul>";
             return html;
         }
 
